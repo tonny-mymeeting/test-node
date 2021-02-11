@@ -1,2 +1,8 @@
 # test-node
-test
+
+
+npm i
+
+npm start
+
+listing on port no :: 2020
